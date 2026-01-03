@@ -6,9 +6,7 @@ ecommerce-analytics/
 │   └── 
 │
 ├── notebooks/
-│   ├── revenue_profit_prediction.ipynb
-│   ├── product_segmentation.ipynb
-│   ├── dynamic_pricing_analysis.ipynb
-│   └── promotion_sensitivity.ipynb
+│   ├── Optimal-Price-Deviation-(Regression).ipynb
+│   ├── Platform-Sensitivity-Score.ipynb
 │
 └── README.md
